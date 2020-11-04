@@ -12,3 +12,11 @@
 
 ### Dataset
 [Kaggle Dataset](https://www.kaggle.com/c/gan-getting-started/data)
+
+### Test Result
+
+#### Using image from training set
+- ![result1](https://github.com/LewisHS/ImageColoring/blob/main/results1.png?raw=true) 
+- ![result2](https://github.com/LewisHS/ImageColoring/blob/main/results2.png?raw=true)
+#### Using real black and white image
+- ![reault3](https://github.com/LewisHS/ImageColoring/blob/main/test.png?raw=true)
